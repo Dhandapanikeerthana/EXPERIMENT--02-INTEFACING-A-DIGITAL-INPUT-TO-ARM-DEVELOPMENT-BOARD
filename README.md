@@ -341,7 +341,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
+
 LED OFF:
+
 ![WhatsApp Image 2025-10-15 at 10 59 53_891ac972](https://github.com/user-attachments/assets/c202c012-d5aa-4ca5-8a15-a10037388451)
 
 
